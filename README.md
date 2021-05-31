@@ -1,0 +1,2 @@
+# gamis
+games for all
